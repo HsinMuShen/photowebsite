@@ -1,0 +1,24 @@
+.search {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  padding: 0rem 0rem;
+}
+
+.search input,
+.search button {
+  font-size: 1.5rem;
+  padding: 0.1rem;
+  border: 3px border;
+}
+
+.search button {
+  background-color: aquamarine;
+}
+/*# sourceMappingURL=search.css.map */
