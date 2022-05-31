@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photowebsite/static/css/main.b31e01ed.css",
+    "main.js": "/photowebsite/static/js/main.fa4a3704.js",
+    "index.html": "/photowebsite/index.html",
+    "main.b31e01ed.css.map": "/photowebsite/static/css/main.b31e01ed.css.map",
+    "main.fa4a3704.js.map": "/photowebsite/static/js/main.fa4a3704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31e01ed.css",
+    "static/js/main.fa4a3704.js"
+  ]
+}
